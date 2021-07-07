@@ -9,7 +9,10 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from google.oauth2.service_account import Credentials
 
+# LINK DO DATA STUDIO: https://datastudio.google.com/u/0/reporting/870f6201-79a7-4001-8bf6-f09959fe5088/page/iCNTC
+
 file_ = "/home/leopoldo/Downloads/USD_BRL Dados Históricos.csv"
+
 
 
 def input_dados():
